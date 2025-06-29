@@ -1,0 +1,150 @@
+[27-Nov-2024 16:56:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wdwhhklr/public_html/client/technician/incoming/tech_data.php on line 2
+[27-Nov-2024 18:02:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wdwhhklr/public_html/client/technician/incoming/tech_data.php on line 2
+[27-Nov-2024 19:01:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:57
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(57): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 57
+[27-Nov-2024 19:04:51 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:48
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(48): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 48
+[27-Nov-2024 19:05:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in /home/wdwhhklr/public_html/client/technician/incoming/tech_data.php on line 2
+[27-Nov-2024 19:09:40 UTC] PHP Warning:  Undefined variable $data in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 6
+[27-Nov-2024 19:09:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:52
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(52): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 52
+[27-Nov-2024 19:11:04 UTC] PHP Warning:  Undefined variable $data in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 6
+[27-Nov-2024 19:11:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:52
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(52): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 52
+[27-Nov-2024 19:11:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:52
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(52): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 52
+[27-Nov-2024 19:14:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:54
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(54): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 54
+[27-Nov-2024 19:14:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:54
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(54): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 54
+[27-Nov-2024 19:15:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:50
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(50): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 50
+[27-Nov-2024 19:15:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:50
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(50): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 50
+[27-Nov-2024 19:16:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:55
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(55): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 55
+[27-Nov-2024 19:19:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:53
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(53): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 53
+[27-Nov-2024 19:19:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:53
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(53): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 53
+[27-Nov-2024 19:20:48 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:53
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(53): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 53
+[27-Nov-2024 19:21:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:53
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(53): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 53
+[27-Nov-2024 19:29:09 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:63
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(63): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 63
+[27-Nov-2024 19:32:04 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:60
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(60): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 60
+[27-Nov-2024 19:32:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:65
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(65): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 65
+[27-Nov-2024 19:33:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:64
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(64): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 64
+[27-Nov-2024 19:36:14 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:60
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(60): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 60
+[27-Nov-2024 19:36:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:60
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(60): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 60
+[27-Nov-2024 19:37:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:60
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(60): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 60
+[27-Nov-2024 19:40:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:64
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(64): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 64
+[27-Nov-2024 19:41:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:65
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(65): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 65
+[27-Nov-2024 19:42:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:65
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(65): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 65
+[27-Nov-2024 19:42:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:64
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(64): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 64
+[27-Nov-2024 19:44:39 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:64
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(64): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 64
+[27-Nov-2024 19:45:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:61
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(61): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 61
+[27-Nov-2024 19:47:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:61
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(61): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 61
+[27-Nov-2024 19:48:16 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php:60
+Stack trace:
+#0 /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php(60): mysqli_stmt->bind_param()
+#1 {main}
+  thrown in /home/wdwhhklr/public_html/client/technician/incoming/take_ticket.php on line 60

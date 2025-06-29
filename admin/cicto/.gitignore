@@ -1,0 +1,6 @@
+.qodo
+
+.qodo
+
+# Ignore config file with sensitive API keys
+administrator/account/config.php

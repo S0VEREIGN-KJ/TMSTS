@@ -1,0 +1,702 @@
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[26-Nov-2024 15:38:02 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 05:56:28 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 15:03:01 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 15:04:14 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 15:04:49 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 15:08:02 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 16:29:54 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 16:30:20 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 16:42:30 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 16:51:11 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 21:40:55 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 21:40:56 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 21:58:08 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 21:59:33 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 22:04:15 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[27-Nov-2024 22:04:40 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[28-Nov-2024 06:40:40 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[29-Nov-2024 13:40:36 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[06-Jan-2025 03:15:39 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[06-Jan-2025 12:37:42 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[06-Jan-2025 12:39:23 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[06-Jan-2025 12:40:47 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[07-Jan-2025 08:18:58 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[07-Jan-2025 08:19:05 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[07-Jan-2025 08:41:40 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 478
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 483
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 488
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 493
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 497
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 501
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 505
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 509
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $ticket_data in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/wdwhhklr/public_html/client/history/history.php on line 513
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $item_date_received in /home/wdwhhklr/public_html/client/history/history.php on line 540
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $received_by in /home/wdwhhklr/public_html/client/history/history.php on line 545
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $assigned_name in /home/wdwhhklr/public_html/client/history/history.php on line 550
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $diagnostic in /home/wdwhhklr/public_html/client/history/history.php on line 555
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $priority in /home/wdwhhklr/public_html/client/history/history.php on line 560
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $status in /home/wdwhhklr/public_html/client/history/history.php on line 567
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $comment in /home/wdwhhklr/public_html/client/history/history.php on line 574
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $approved_by in /home/wdwhhklr/public_html/client/history/history.php on line 579
+[07-Jan-2025 08:53:15 UTC] PHP Warning:  Undefined variable $release_date in /home/wdwhhklr/public_html/client/history/history.php on line 584

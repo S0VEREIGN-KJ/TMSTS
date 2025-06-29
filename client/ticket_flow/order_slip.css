@@ -1,0 +1,227 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 30pt;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    background-color: #030101;
+}
+html {
+    touch-action: manipulation; /* Prevents double-tap zoom */
+    -ms-touch-action: manipulation; /* For older IE/Edge */
+  }
+
+  .loadingOverlay {
+    position: fixed; /* Fixed position to cover the viewport */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background */
+    z-index: 1000; /* High z-index to overlay on top */
+    display: none; /* Hidden by default */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+}
+
+.loader {
+    display: flex;
+    align-items: center;
+}
+
+.dot {
+    width: 15px;
+    height: 15px;
+    margin: 0 5px;
+    border-radius: 50%;
+    background-color: #333;
+    animation: bounce 0.6s infinite alternate;
+}
+
+.dot:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.dot:nth-child(2) {
+    animation-delay: 0.2s;
+}
+
+.dot:nth-child(3) {
+    animation-delay: 0.4s;
+}
+
+@keyframes bounce {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-20px);
+    }
+}
+/* Container */
+.container {
+    width: 100%;
+    padding: 0.5in; /* Padding for spacing */
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    border: 1px solid #000;
+    margin: 0; /* Remove extra margins */
+}
+
+/* Header */
+.header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #000;
+    padding: 5px 0; /* Reduced padding for header */
+    margin-bottom: 10px; /* Margin between header and content */
+    background-color: rgb(64, 188, 246);
+}
+
+.header img {
+    width: 60px;
+    height: auto;
+    margin-right: 10px; /* Space between logo and text */
+    margin-left: 10px; /* Space between logo and text */
+}
+
+.header h1 {
+    margin: 0; /* Remove default margin */
+    font-size: 15pt; /* Adjust font size for header */
+    text-align: center;
+}
+
+/* Form Group */
+.form-group {
+    margin-bottom: 10px; /* Spacing between form groups */
+    align-items: center; /* Align items vertically centered */
+    justify-content: space-between; /* Space between label and input */
+}
+
+label {
+    flex: 0 0 150px; /* Set a fixed width for the label */
+    margin: 0; /* Remove extra margins */
+    font-weight: bold ;
+}
+
+input, select {
+    font-size: 25pt;
+    width: 100%;
+    padding: 8px; /* Increased padding inside input fields */
+    border: 1px solid #000;
+    border-radius: 4px;
+}
+
+/* Custom Select with Device Image */
+.custom-select {
+    position: relative;
+    width: 100%;
+    
+}
+
+
+.select-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px; /* Increased padding inside select box */
+    border: 1px solid #000;
+    border-radius: 4px;
+    cursor: pointer;
+    background: #fff; /* Added background for select box */
+}
+
+.select-box img {
+    width: 40px; /* Adjust size of the device image */
+    height: auto;
+}
+
+.options-container {
+    position: absolute;
+    width: calc(100% - 2px); /* Adjust to match select box width */
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 4px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    display: none;
+    z-index: 10;
+    top: 100%; /* Position below the select box */
+    left: 0; /* Align with left edge of select box */
+}
+
+.options-container.visible {
+    display: block;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    padding: 8px; /* Increased padding inside option items */
+    border-bottom: 1px solid #ddd; /* Divider between options */
+    cursor: pointer;
+}
+
+.option:hover {
+    background-color: #f2f2f2; /* Highlight on hover */
+}
+
+.option img {
+    width: 30px; /* Adjust size of option images */
+    height: auto;
+    margin-right: 10px; /* Space between image and text */
+}
+
+/* Accessories Table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px; /* Space above the table */
+}
+
+table, th, td {
+    border: 1px solid #000;
+}
+
+th, td {
+    padding: 8px; /* Padding inside table cells */
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+
+/* Media Queries */
+@media (max-width: 480px) {
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        background-color: #f0f0f0; /* Replace with your desired background color */
+      flex-direction: column;
+      background: #f4f4f4;
+      position: relative;
+      overflow: auto;
+      width: 480px; /* adjust to your desired width */
+     
+        font-size: 26pt; /* Slightly smaller font size on larger tablets */
+    }
+    
+    .container {
+        padding: 1in; /* Increased padding for larger screens */
+    }
+
+    .header h1 {
+        font-size: 14pt; /* Slightly smaller text size */
+    }
+    
+    .form-group label {
+        font-size: 22pt;
+    }
+}

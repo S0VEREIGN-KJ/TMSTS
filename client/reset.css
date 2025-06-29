@@ -1,0 +1,356 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background: #000000;
+    position: relative;
+    overflow: hidden;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0.5); /* light green with 50% transparency */
+    filter: blur(8px);
+    z-index: -1;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+header {
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+    font-size: 1em;
+}
+
+header img {
+    max-width: 150px; /* Adjust the width as needed */
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    z-index: 1;
+}
+
+#form {
+    display: grid;
+    place-items: center;
+    width: 100%; /* Full width */
+    max-width: 350px; /* Maximum size */
+    height: auto; /* Adjust height automatically */
+    padding: 25px;
+    background-color: #161616;
+    box-shadow: 0px 15px 60px #00FF7F;
+    outline: 1px solid #2b9962;
+    border-radius: 10px;
+    z-index: 1;
+}
+
+#form-body {
+    position: relative;
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+}
+
+#welcome-lines {
+    text-align: center;
+    line-height: 1;
+}
+
+#welcome-line-1 {
+    color: #00FF7F;
+    font-weight: 600;
+    font-size: 30px;
+}
+
+#welcome-line-2 {
+    color: #ffffff;
+    font-size: 18px;
+    margin-top: 17px;
+}
+
+#input-area {
+    margin-top: 20px;
+}
+
+.form-inp {
+    padding: 11px 25px;
+    background: transparent;
+    border: 1px solid #e3e3e3;
+    line-height: 1;
+    border-radius: 8px;
+}
+
+.form-inp:focus {
+    border: 1px solid #00FF7F;
+}
+
+.form-inp:first-child {
+    margin-bottom: 15px;
+}
+
+.form-inp input {
+    width: 100%;
+    background: none;
+    font-size: 13.4px;
+    color: #00FF7F;
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.form-inp input:focus {
+    outline: none;
+}
+
+#submit-button-cvr {
+    margin-top: 20px;
+}
+
+#submit-button {
+    display: block;
+    width: 100%;
+    color: #00FF7F;
+    background-color: transparent;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 0;
+    padding: 14px 13px 12px 13px;
+    border: 0;
+    outline: 1px solid #00FF7F;
+    border-radius: 8px;
+    line-height: 1;
+    cursor: pointer;
+    transition: all ease-in-out .3s;
+}
+
+#submit-button:hover {
+    transition: all ease-in-out .3s;
+    background-color: #00FF7F;
+    color: #161616;
+    cursor: pointer;
+}
+
+#forgot-pass {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#forgot-pass a {
+    color: #868686;
+    font-size: 12px;
+    text-decoration: none;
+}
+
+#bar {
+    position: absolute;
+    left: 50%;
+    bottom: -50px;
+    width: 28px;
+    height: 8px;
+    margin-left: -33px;
+    background-color: #00FF7F;
+    border-radius: 10px;
+}
+
+#bar:before,
+#bar:after {
+    content: "";
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    background-color: #ececec;
+    border-radius: 50%;
+}
+
+#bar:before {
+    right: -20px;
+}
+
+#bar:after {
+    right: -38px;
+}
+
+footer {
+    margin-top: 50px;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    z-index: 0;
+}
+
+footer .create-account-btn {
+    padding: 0.8em 2em;
+    border-radius: 50px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    font-size: 0.8em;
+    transition: background-color 0.3s ease;
+    text-align: center;
+}
+
+footer .create-account-btn:hover {
+    background-color: #45a049;
+}
+
+/* Ensure this is unique to avoid conflicts */
+.forgot-password-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: none; /* Hidden by default */
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+}
+
+.forgot-password-overlay .overlay-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 100%;
+    max-width: 400px; /* Restrict the width */
+}
+
+.forgot-password-overlay h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.forgot-password-overlay label {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+.forgot-password-overlay input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    color: #333;
+}
+
+.forgot-password-overlay button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.forgot-password-overlay button:hover {
+    background-color: #45a049;
+}
+
+.forgot-password-overlay #message {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #333;
+}
+
+.forgot-password-overlay .close-btn {
+    position: absolute;
+    top: 37%;
+    right: -160px;
+    background-color: transparent;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+    color: #333;
+    cursor: pointer;
+    padding: 5px;
+    transition: color 0.3s;
+}
+
+.forgot-password-overlay .close-btn:hover {
+    color: #d9534f;
+}
+
+.forgot-password-link {
+    color: white;
+    text-decoration: underline;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.forgot-password-link:hover {
+    color: #83f289;
+}
+
+/* Responsive Design for Mobile Devices */
+@media (max-width: 768px) {
+    #form {
+        width: 90%; /* Adjust width for smaller devices */
+        height: auto;
+        max-width: 90%; /* Adjust the max width */
+    }
+
+    #welcome-line-1 {
+        font-size: 24px; /* Adjust font size for mobile */
+    }
+
+    #welcome-line-2 {
+        font-size: 16px; /* Adjust font size for mobile */
+    }
+
+    #submit-button {
+        font-size: 16px;
+        padding: 12px 10px;
+    }
+
+    .form-inp input {
+        font-size: 14px;
+    }
+
+    footer .create-account-btn {
+        font-size: 0.7em;
+    }
+}

@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sign Up Page</title>
+    <link rel="stylesheet" href="Sign_up.css?v=1.1">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+</head>
+<body>
+    <div class="background-image"></div>
+    <div class="overlay"></div>
+    <header>
+        <img src="images/cicto_logo.png" alt="App Logo">
+        <h1>CICTO TABUK CITY</h1>
+        <h1>City Information Communication Technology Office</h1>
+    </header>
+    <main>
+        <div class="main-image"></div>
+        <div class="main-overlay"></div>
+        <div class="signup-container">
+            <h2>Sign Up</h2>
+
+          
+                  
+            <form action="submit_signup.php" method="post">
+
+            <div class="input-group">
+                <label for="id_number">ID Number:</label>
+                <input type="tel" class="form-control" name="id_number" placeholder="ID Number" id="id_number" required autocomplete="off"
+                       maxlength="11" pattern="[0-9]*" 
+                       autocomplete="off" inputmode="numeric" 
+                       oninput="this.value = this.value.replace(/\D+/g, '')">
+                    </div>
+                    
+
+                <div class="input-group">
+                    <label for="first_name">First Name</label>
+                    <input type="text" id="first_name" name="first_name" placeholder="First Name"  pattern="[A-Za-z\s]+" required autocomplete="off">
+                </div>
+                <div class="input-group">
+                    <label for="middle_name">Middle Name</label>
+                    <input type="text" id="middle_name" name="middle_name" placeholder="Middle Name" pattern="[A-Za-z\s]+" autocomplete="off">
+                </div>
+                <div class="input-group">
+                    <label for="last_name">Last Name</label>
+                    <input type="text" id="last_name" name="last_name" placeholder="Last Name" pattern="[A-Za-z\s]+" required autocomplete="off">
+                </div>
+                <div class="input-group">
+                  <label for="email">Email Address (DOUBLE CHECK)</label>
+                  <input type="email" name="email" id="email" placeholder="Email Address must be ACTIVE" required autocomplete="off">
+                </div>
+                <div class="input-group">
+                    <label for="phone_number">Phone Number:</label>
+                    <input type="tel" class="form-control" name="phone_number" placeholder="09XXXXXXXXX" id="phone_number" required
+                           maxlength="11" pattern="[0-9]{11}" 
+                           autocomplete="off" inputmode="numeric" 
+                           oninput="this.value = this.value.replace(/\D+/g, '').slice(0, 11)">
+                  </div>
+                  <div class="input-group">
+                    <label for="department">Department Office</label>
+                    <select id="department" name="department" placeholder="Your Work Office">
+                      <option disabled selected>Type of Office</option>
+                      <option>City Mayor Office</option>
+                      <option>City Vice Mayor's Office</option>
+                      <option>City Accounting Office</option>
+                      <option>City Administrator Office</option>
+                      <option>City Agricultural Office</option>
+                      <option>City Assessors Office</option>
+                      <option>City Barangay Affairs and Community Relations Office</option>
+                      <option>City Budget Office</option>
+                      <option>City Buildings and Architecture Office</option>
+                      <option>City Business Permits and Licensing Office</option>
+                      <option>City Civil Registry Office</option>
+                      <option>City Cooperative and Enterprise Development Office</option>
+                      <option>City Disaster Risk Reduction and Management Office</option>
+                      <option>City Engineering Office</option>
+                      <option>City Environment and Natural Resources Office</option>
+                      <option>City General Services Office</option>
+                      <option>City Health Services Office</option>
+                      <option>City Human Resource Management Office</option>
+                      <option>City Information and Communications Technology Office</option>
+                      <option>City Internal Audit Services Office</option>
+                      <option>City Legal Service Office</option>
+                      <option>City Motor and Equipment Pool Office</option>
+                      <option>City Planning and Development Office</option>
+                      <option>City Population Development Office</option>
+                      <option>City Public Employment Services Office</option>
+                      <option>City Public Information Office</option>
+                      <option>City Public Order and Safety Office</option>
+                      <option>City Social Welfare and Development Office</option>
+                      <option>City Special Concerns and Coordinating Office</option>
+                      <option>City Tourism and Cultural Affairs Office</option>
+                      <option>City Treasure Office</option>
+                      <option>City Veterinary Services Office</option>
+                      <option>Secretary to the Sangguniang Panlungsod Office</option>
+                      <option>RHU-1</option>
+                      <option>RHU-2</option>
+                      <option>RHU-3</option>
+                      <option>RHU-4</option>
+                      <option>Office of the Senior Citizen Affairs</option>
+                      <option>Sangguniang Panlungsod Office</option>
+                    </select>
+                  </div>
+
+                  <div class="input-group">
+                    <label for="barangay">Barangay Office</label>
+                    <select id="barangay" name="barangay" placeholder="Your Work Office" >
+                      <option disabled selected>Type of Office</option>
+                      <option>Agbannawag</option>
+                      <option>Amlao</option>
+                      <option>Appas</option>
+                      <option>Bado Dangwa</option>
+                      <option>Bagumbayan</option>
+                      <option>Balawag</option>
+                      <option>Balong</option>
+                      <option>Bantay</option>
+                      <option>Bulanao</option>
+                      <option>Bulanao Norte</option>
+                      <option>Bulo</option>
+                      <option>Cabaritan</option>
+                      <option>Cabaruan</option>
+                      <option>Calaccad</option>
+                      <option>Calanan</option>
+                      <option>Casigayan</option>
+                      <option>Cudal</option>
+                      <option>Dagupan Centro</option>
+                      <option>Dagupan Weste</option>
+                      <option>Dilag</option>
+                      <option>Dupag</option>
+                      <option>Gobgob</option>
+                      <option>Guilayon</option>
+                      <option>Ipil</option>
+                      <option>Lacnog</option>
+                      <option>Lacnog West</option>
+                      <option>Lanna</option>
+                      <option>Laya East</option>
+                      <option>Laya West</option>
+                      <option>Lucog</option>
+                      <option>Magnao</option>
+                      <option>Magsaysay</option>
+                      <option>Malalao</option>
+                      <option>Malin-awa</option>
+                      <option>Masablang</option>
+                      <option>Nambaran</option>
+                      <option>Nambucayan</option>
+                      <option>Naneng</option>
+                      <option>New Tanglag</option>
+                      <option>San Juan</option>
+                      <option>San Julian</option>
+                      <option>Suyang</option>
+                      <option>Tuga</option>
+                    </select>
+                  </div>
+
+                  <div class="input-group">
+                    <label for="password">Password:</label>
+                    <input 
+                        type="password" 
+                        class="form-control" 
+                        name="password" 
+                        placeholder="Password" 
+                        id="password" 
+                        required 
+                        oninput="checkPasswordsMatch()">
+                        <label style="white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; font-size: 17px; cursor: pointer; margin-left: 5px; margin-top: 5px;">
+                          <input 
+                            type="checkbox" 
+                            onclick="seePass()" 
+                            title="Show Password" 
+                            style="transform: scale(1.2); margin: 0;">
+                          Show Password
+                        </label>
+                        
+                </div>
+                
+                
+                <div class="input-group" style="margin-top: 5px;">
+                    <label for="password_confirmation">Confirm Password:</label>
+                    <input 
+                        type="password" 
+                        class="form-control" 
+                        name="password_confirmation" 
+                        placeholder="Confirm Password" 
+                        id="password_confirmation" 
+                        required 
+                        oninput="checkPasswordsMatch()">
+                        <label style="white-space: nowrap; display: inline-flex; align-items: center; gap: 6px; font-size: 17px; cursor: pointer; margin-left: 5px; margin-top: 5px;">
+                        <input 
+                            type="checkbox" 
+                            onclick="seeConfirmPass()" 
+                            title="Show Confirm Password" 
+                            style="transform: scale(1.2);margin: 0;">
+                            Show Password
+                        </label>
+                </div>
+                
+                <!-- Error message for mismatched passwords -->
+                <div id="password-error" style="margin-top: -25px;"></div>
+                
+
+                <button style="margin-top: 35px;" type="submit">Sign Up</button>
+                <a href="index.php" class="login-btn">Already have an account? Login</a>
+            </form>
+        </div>
+    </main>
+<script>
+const departmentSelect = document.getElementById('department');
+const barangaySelect = document.getElementById('barangay');
+
+departmentSelect.addEventListener('change', () => {
+  if (departmentSelect.value !== 'Choose your Office') {
+    barangaySelect.value = 'Choose your Office';
+  }
+});
+
+barangaySelect.addEventListener('change', () => {
+  if (barangaySelect.value !== 'Choose your Office') {
+    departmentSelect.value = 'Choose your Office';
+  }
+});
+
+function seePass() {
+    var passwordInput = document.getElementById("password");
+    if (passwordInput.type === "password") {
+      passwordInput.type = "text";
+    } else {
+      passwordInput.type = "password";
+    }
+  }
+
+  function seeConfirmPass() {
+    var passwordInput = document.getElementById("password_confirmation");
+    if (passwordInput.type === "password") {
+      passwordInput.type = "text";
+    } else {
+      passwordInput.type = "password";
+    }
+  }
+
+  function checkPasswordsMatch() {
+    const password = document.getElementById("password").value;
+    const confirmPassword = document.getElementById("password_confirmation").value;
+    const errorMessage = document.getElementById("password-error");
+
+    if (password !== confirmPassword) {
+        errorMessage.textContent = "Passwords do not match!";
+        errorMessage.style.color = "red";
+    } else {
+        errorMessage.textContent = "";
+    }
+}
+</script>
+
+    <footer>
+    </footer>
+</body>
+</html>

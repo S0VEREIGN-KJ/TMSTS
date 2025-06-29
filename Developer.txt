@@ -1,0 +1,13 @@
+<!-- /**
+
+ * Project: Technical and Maintenance Services Ticketing System
+
+ * Author: Karl Jasper G. Del Rosario
+
+ * Email: karljasper1231@gmail.com
+
+ * Date: CAPSTONE 1 & 2 System Project, 2025
+
+ * Description:  A vanilla raw code project, a ticketing system with a built in admin side and client side(mobile application).... The system features include generation of reports, tickets summary, a rule-based-chatbot, a email verification feature, and users account status, (closing of account and opening of accounts), notification feature for the client
+ */
+  -->
